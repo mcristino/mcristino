@@ -1,5 +1,5 @@
 ###
-<h1 align="left">I'm Miguel Cristino 👋</h1>
+<h1 align="left">I'm Miguel 👋</h1>
 <a href="https://wakatime.com/@2851d98a-5309-4027-9bc6-c75ffd8f6aa2"><img src="https://wakatime.com/badge/user/2851d98a-5309-4027-9bc6-c75ffd8f6aa2.svg" alt="Total time coded" /></a>
 
 ###
