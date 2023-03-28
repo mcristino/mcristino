@@ -12,7 +12,7 @@ Right now I'm Head of marketing, and design at Sofrapa.pt.
 <strong>AND</strong> about now you're wondering why I'm on github, but I'm doing a Professional Full Stack WebDev Course at Flag.pt. Which is teaching me to work with HTML, CSS, Sass, TailwindCss, Bootstrap, Javascript, React, MySQL, PHP & Laravel, REST APIs, MongoDB, NodeJS, ExpressJS.
 
 
-I have a weakspot for learning new things and I've always had an interest for developing, ever since I was 14 but back then I decided on my interest in design. 📝
+I have a weakspot for learning new things and I've always had an interest for developing, ever since I was 14 but back then I decided to follow on my interest in design. 📝
 </p>
 
 
