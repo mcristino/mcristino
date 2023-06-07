@@ -7,7 +7,7 @@
 <p> Hello, thank you for visiting! Here's more about me 👇</p>
 <p> 
 
-Right now I'm Head of marketing, and design at Sofrapa.pt. 
+Right now I'm doing marketing, and design at Sofrapa.pt. 
 
 <strong>AND</strong> about now you're wondering why I'm on github, but I'm doing a Professional Full Stack WebDev Course at Flag.pt. Which is teaching me to work with HTML, CSS, Sass, TailwindCss, Bootstrap, Javascript, React, MySQL, PHP & Laravel, REST APIs, MongoDB, NodeJS, ExpressJS.
 
