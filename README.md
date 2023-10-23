@@ -21,7 +21,7 @@ I have a weakspot for learning new things and I've always had an interest for de
 <a href="https://www.linkedin.com/in/miguelcristino23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-nurcholis-112b73162" height="30" width="40" /></a>
 </p>
 
-
+[![](https://visitcount.itsvg.in/api?id=mcristino&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <!--
 **mcristino/mcristino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
